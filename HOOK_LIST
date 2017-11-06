@@ -1,0 +1,16 @@
+eval
+file_get_content
+preg_replace  # preg_replace('/.*/e',...) - /e does an eval() on the match
+popen
+system
+mail
+assert
+include
+include_once
+require
+require_once
+fwrite
+phpinfo
+iniset
+fsockopen
+pfsockopen
