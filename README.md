@@ -13,3 +13,6 @@ Judge a php webshell by php engine &amp; hook
 * 对用户输入与上述之间的关系做判断
 * 对上下文的检测
 * 对与用户输入相关的变量的检测
+
+### PHP版本
+php7.1.11 (sha256 7646d7de701fc969e3305eeeb2eddda3d46af6a88ee20ef4a47270c447228573)
